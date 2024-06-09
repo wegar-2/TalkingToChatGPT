@@ -14,8 +14,5 @@ constructive criticism rather than pointless ranting characteristic of know-it-a
 
 ### Table of Contents
 
-1. Simple algebra problem:
-
-$$ x^x = 2^{2^{-7/4}} $$
-
-solving of which is based on an insight
+1. Simple algebra problem: $ x^x = 2^{2^{-7/4}}$
+solving of which is based on an insight.
